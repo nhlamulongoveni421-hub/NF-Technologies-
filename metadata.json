@@ -1,0 +1,6 @@
+{
+  "name": "NF Technologies",
+  "description": "A premier 9-pillar digital agency and software services ecosystem specializing in high-growth, recurring revenue models.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
